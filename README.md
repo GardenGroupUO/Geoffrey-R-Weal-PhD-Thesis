@@ -2,7 +2,7 @@
 
 All gifs can be played on this Github repository. 
 
-Videos have not been include in this Github repository but instead are linked to their Youtube url. You can see the video you would like to watch by clicking on the link to it. The videos that have been include online are given in this READMe file as well.
+Videos have not been include in this Github repository but instead are linked to their Youtube url. You can see the video you would like to watch by clicking on the link to it. The videos that have been include online are given in this README file as well.
 
 ## Files on this Github Repository
 
@@ -14,7 +14,7 @@ The files included in this Github repository are:
 
 ### Appendix D: Appendix for Chapter 5
 
-* Model Clusters that were used for testing the performance of various local optimisers in ASE
+* Model Clusters that were used for testing the performance of various local optimisers in ASE, as well as the structures they optimised to after various local optimisations.
 
 ## Videos on Youtube
 
