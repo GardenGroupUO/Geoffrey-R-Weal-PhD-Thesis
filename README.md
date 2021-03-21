@@ -12,6 +12,14 @@ The files included in this Github repository are:
 
 ### Chapter 6: Dynamical behaviour of Au nanoclusters
 
+* The Energy and CNA profiles of:
+
+	- Au55  -> FCC at 175 K, 220 K, 300 K; Dh at 300 K; GI at 300 K
+	- Au85  -> TWI at 300 -- 400 K and at 500 K
+	- Au101 -> 
+
+Some of the energy and CNA profile that have been given have been restricted just to show the energies and proportions of CNA signatures at the point during the simulations when a transition between motifs occurs.
+
 ### Appendix D: Appendix for Chapter 5
 
 * Model Clusters that were used for testing the performance of various local optimisers in ASE, as well as the structures they optimised to after various local optimisations.
