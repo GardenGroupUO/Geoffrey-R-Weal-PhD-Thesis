@@ -1,0 +1,88 @@
+############################################################
+# Looking across all the different
+############################################################
+Au55_disp_0.15_deca_a_25	Au55_disp_0.15_deca_b_50	Different Motifs
+Au55_disp_0.15_deca_a_25	Au55_disp_0.15_octa_a_2	Different Motifs
+Au55_disp_0.15_deca_a_25	Au55_disp_0.15_octa_b_3	Different Motifs
+Au55_disp_0.15_deca_a_25	Au55_disp_0.15_octa_c_4	Different Motifs (R)
+Au55_disp_0.15_deca_a_25	Au55_disp_0.15_octa_c_4	Different Motifs (R)
+Au55_disp_0.15_deca_a_25	Au55_disp_0.15_ico_a_18	Structurally Different
+Au55_disp_0.15_deca_b_50	Au55_disp_0.15_octa_a_2	Structurally Different
+Au55_disp_0.15_deca_b_50	Au55_disp_0.15_octa_b_3	Structurally Different or Same Motif
+Au55_disp_0.15_deca_b_50	Au55_disp_0.15_octa_c_4	Structurally Different (R)
+Au55_disp_0.15_deca_b_50	Au55_disp_0.15_octa_d_181	Structurally Different (R)
+Au55_disp_0.15_deca_b_50	Au55_disp_0.15_ico_a_18	Different Motif
+Au55_disp_0.15_octa_a_2	Au55_disp_0.15_octa_b_3	Same (R)
+Au55_disp_0.15_octa_a_2	Au55_disp_0.15_octa_c_4	Same
+Au55_disp_0.15_octa_a_2	Au55_disp_0.15_octa_d_181	Same (R)
+Au55_disp_0.15_octa_a_2	Au55_disp_0.15_ico_a_18	Different Motif
+Au55_disp_0.15_octa_b_3	Au55_disp_0.15_octa_c_4	Same (R chiral)
+Au55_disp_0.15_octa_b_3	Au55_disp_0.15_octa_d_181	Same (R)
+Au55_disp_0.15_octa_b_3	Au55_disp_0.15_ico_a_18	Different Motif
+Au55_disp_0.15_octa_c_4	Au55_disp_0.15_octa_d_181	Same (R)
+Au55_disp_0.15_octa_c_4	Au55_disp_0.15_ico_a_18	Different Motif
+Au55_disp_0.15_octa_d_181	Au55_disp_0.15_ico_a_18	Different Motif (R)
+############################################################
+# Results_of_Rules_total_similarity_for_Au55_disp_0.15_deca_a.txt
+############################################################
+Au55_disp_0.15_deca_a_25	Au55_disp_0.15_deca_a_33	Structurally Different
+Au55_disp_0.15_deca_a_25	Au55_disp_0.15_deca_a_24	Structurally Different
+Au55_disp_0.15_deca_a_25	Au55_disp_0.15_deca_a_26	Structurally Different (Check this out)
+Au55_disp_0.15_deca_a_25	Au55_disp_0.15_deca_a_23	Structurally Different
+Au55_disp_0.15_deca_a_25	Au55_disp_0.15_deca_a_44	Structurally Different or Same Motif
+Au55_disp_0.15_deca_a_25	Au55_disp_0.15_deca_a_97	Structurally Different
+Au55_disp_0.15_deca_a_25	Au55_disp_0.15_deca_a_194	Structurally Different or Same Motif (check this out)
+############################################################
+# Results_of_Rules_total_similarity_for_Au55_disp_0.15_deca_b.txt
+############################################################
+Au55_disp_0.15_deca_b_50	Au55_disp_0.15_deca_b_43	Same
+Au55_disp_0.15_deca_b_50	Au55_disp_0.15_deca_b_107  Different Motif
+Au55_disp_0.15_deca_b_50	Au55_disp_0.15_deca_b_103  Different Motif
+  Au55_disp_0.15_deca_b_50	Au55_disp_0.15_deca_b_108  Different Motif
+Au55_disp_0.15_deca_b_50	Au55_disp_0.15_deca_b_58	Same (R)
+Au55_disp_0.15_deca_b_50	Au55_disp_0.15_deca_b_0  Different Motif
+############################################################
+# Results_of_Rules_total_similarity_for_Au55_disp_0.15_octa_a.txt
+############################################################
+Au55_disp_0.15_octa_a_2	Au55_disp_0.15_octa_a_1	Structurally Different
+Au55_disp_0.15_octa_a_2	Au55_disp_0.15_octa_a_75	Structurally Different or Same Motif
+Au55_disp_0.15_octa_a_2	Au55_disp_0.15_octa_a_82	Structurally Different
+Au55_disp_0.15_octa_a_2	Au55_disp_0.15_octa_a_94	Different Motif
+Au55_disp_0.15_octa_a_2	Au55_disp_0.15_octa_a_103 Different Motif
+Au55_disp_0.15_octa_a_2	Au55_disp_0.15_octa_a_98	Different Motif
+Au55_disp_0.15_octa_a_2	Au55_disp_0.15_octa_a_107	Different Motif (May be repeat with 94)
+Au55_disp_0.15_octa_a_2	Au55_disp_0.15_octa_a_95	Different Motif (May be repeat with 107)
+Au55_disp_0.15_octa_a_2	Au55_disp_0.15_octa_a_190	Different Motif
+Au55_disp_0.15_octa_a_2	Au55_disp_0.15_octa_a_93	Different Motif
+Au55_disp_0.15_octa_a_2	Au55_disp_0.15_octa_a_97	Different Motif
+Au55_disp_0.15_octa_a_2	Au55_disp_0.15_octa_a_142	Different Motif
+Au55_disp_0.15_octa_a_2	Au55_disp_0.15_octa_a_196	
+Au55_disp_0.15_octa_a_2	Au55_disp_0.15_octa_a_75
+############################################################
+# Results_of_Rules_total_similarity_for_Au55_disp_0.15_octa_b.txt
+############################################################
+Au55_disp_0.15_octa_b_3	Au55_disp_0.15_octa_b_4 Structurally Different or Same Motif (R)
+Au55_disp_0.15_octa_b_3	Au55_disp_0.15_octa_b_76	Structurally Different or Same Motif
+Au55_disp_0.15_octa_b_3	Au55_disp_0.15_octa_b_491	Different Motif
+Au55_disp_0.15_octa_b_3	Au55_disp_0.15_octa_b_115	Different Motif (R above)
+Au55_disp_0.15_octa_b_3	Au55_disp_0.15_octa_b_147	Different Motif (R above)
+Au55_disp_0.15_octa_b_3	Au55_disp_0.15_octa_b_175	Different Motif
+Au55_disp_0.15_octa_b_3	Au55_disp_0.15_octa_b_460	Different Motif
+############################################################
+# Results_of_Rules_total_similarity_for_Au55_disp_0.15_octa_c.txt
+############################################################
+Au55_disp_0.15_octa_c_4	Au55_disp_0.15_octa_c_5	Structurally Different (R Au55_disp_0.15_octa_a_2	Au55_disp_0.15_octa_a_1)
+Au55_disp_0.15_octa_c_4	Au55_disp_0.15_octa_c_240	Structurally Different or Same Motif (R Au55_disp_0.15_octa_a_2	Au55_disp_0.15_octa_a_75)
+Au55_disp_0.15_octa_c_4	Au55_disp_0.15_octa_c_237	Structurally Different or Same Motif (R both are different structures of the octa clusters, with the right having a slip plane.
+Au55_disp_0.15_octa_c_4	Au55_disp_0.15_octa_c_146	Different Motif
+Au55_disp_0.15_octa_c_4	Au55_disp_0.15_octa_c_147	Different Motif
+Au55_disp_0.15_octa_c_4	Au55_disp_0.15_octa_c_341	Different Motif
+Au55_disp_0.15_octa_c_4	Au55_disp_0.15_octa_c_151	Different Motif
+Au55_disp_0.15_octa_c_4	Au55_disp_0.15_octa_c_152	Different Motif (R Au55_disp_0.15_octa_c_4	Au55_disp_0.15_octa_c_151)
+Au55_disp_0.15_octa_c_4	Au55_disp_0.15_octa_c_187	Different Motif (R Au55_disp_0.15_octa_c_4	Au55_disp_0.15_octa_c_341)
+Au55_disp_0.15_octa_c_4	Au55_disp_0.15_octa_c_182	Different Motif
+Au55_disp_0.15_octa_c_4	Au55_disp_0.15_octa_c_255	Different Motif
+Au55_disp_0.15_octa_c_4	Au55_disp_0.15_octa_c_116	
+############################################################
+# Results_of_Rules_total_similarity_for_Au55_disp_0.15_ico_a.txt
+############################################################

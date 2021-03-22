@@ -1,0 +1,84 @@
+############################################################
+# Looking across all the different
+############################################################
+Au54_disp_0.15_deca_a_13	Au54_disp_0.15_deca_b_14	Same
+Au54_disp_0.15_deca_a_13	Au54_disp_0.15_octa_a_4	Different Motif
+Au54_disp_0.15_deca_a_13	Au54_disp_0.15_octa_b_7	Different Motif (R1)
+Au54_disp_0.15_deca_a_13	Au54_disp_0.15_octa_c_14	Different Motif (R1)
+Au54_disp_0.15_deca_a_13	Au54_disp_0.15_octa_d_3	Check this 1. Might prove me wrong
+Au54_disp_0.15_deca_b_14	Au54_disp_0.15_octa_a_4  Different Motif (R2)
+Au54_disp_0.15_deca_b_14	Au54_disp_0.15_octa_b_7	Different Motif (R2)
+Au54_disp_0.15_deca_b_14	Au54_disp_0.15_octa_c_14	Different Motif (R2)
+Au54_disp_0.15_deca_b_14	Au54_disp_0.15_octa_d_3	Check this 1. (R3)
+Au54_disp_0.15_octa_a_4	Au54_disp_0.15_octa_b_7	Same
+Au54_disp_0.15_octa_a_4	Au54_disp_0.15_octa_c_14	Same (R4)
+Au54_disp_0.15_octa_a_4	Au54_disp_0.15_octa_d_3	Different Motif (R5 check)
+Au54_disp_0.15_octa_b_7	Au54_disp_0.15_octa_c_14	Same (R4)
+Au54_disp_0.15_octa_b_7	Au54_disp_0.15_octa_d_3	Different Motif (R5 check)
+Au54_disp_0.15_octa_c_14	Au54_disp_0.15_octa_d_3	Different Motif (R5 check)
+############################################################
+# Results_of_Rules_total_similarity_for_Au54_disp_0.15_deca_a.txt
+############################################################
+Au54_disp_0.15_deca_a_13	Au54_disp_0.15_deca_a_49	Same
+Au54_disp_0.15_deca_a_13	Au54_disp_0.15_deca_a_58	Structurally Different (Check this)
+Au54_disp_0.15_deca_a_13	Au54_disp_0.15_deca_a_12	Structurally Different
+Au54_disp_0.15_deca_a_13	Au54_disp_0.15_deca_a_20	Structurally Different or Same Motif
+Au54_disp_0.15_deca_a_13	Au54_disp_0.15_deca_a_177	Structurally Different or Same Motif or CNBI
+Au54_disp_0.15_deca_a_13	Au54_disp_0.15_deca_a_194	Structurally Different
+Au54_disp_0.15_deca_a_13	Au54_disp_0.15_deca_a_38	Structurally Different
+Au54_disp_0.15_deca_a_13	Au54_disp_0.15_deca_a_138	Structurally Different or Same Motif
+Au54_disp_0.15_deca_a_13	Au54_disp_0.15_deca_a_243	Structurally Different or Same Motif or CNBI
+Au54_disp_0.15_deca_a_49	Au54_disp_0.15_deca_a_58	Structurally Different (R6) (Check this)
+############################################################
+# Results_of_Rules_total_similarity_for_Au54_disp_0.15_deca_b.txt
+############################################################
+Au54_disp_0.15_deca_b_14	Au54_disp_0.15_deca_b_156	Different Motif
+Au54_disp_0.15_deca_b_14	Au54_disp_0.15_deca_b_15	Structurally Different (R6)
+Au54_disp_0.15_deca_b_14	Au54_disp_0.15_deca_b_115	Structurally Different or Same Motif
+Au54_disp_0.15_deca_b_14	Au54_disp_0.15_deca_b_44	Structurally Different or Same Motif
+Au54_disp_0.15_deca_b_14	Au54_disp_0.15_deca_b_60	Different Motif
+Au54_disp_0.15_deca_b_14	Au54_disp_0.15_deca_b_6	Structurally Different or Same Motif
+Au54_disp_0.15_deca_b_14	Au54_disp_0.15_deca_b_9	Structurally Different or Same Motif
+Au54_disp_0.15_deca_b_14	Au54_disp_0.15_deca_b_30	Structurally Different or Same Motif
+Au54_disp_0.15_deca_b_14	Au54_disp_0.15_deca_b_0	Different Motif
+Au54_disp_0.15_deca_b_14	Au54_disp_0.15_deca_b_1	Same Motif
+Au54_disp_0.15_deca_b_14	Au54_disp_0.15_deca_b_174	Different Motif
+Au54_disp_0.15_deca_b_156	Au54_disp_0.15_deca_b_15	Different Motif
+############################################################
+# Results_of_Rules_total_similarity_for_Au54_disp_0.15_octa_a.txt
+############################################################
+Au54_disp_0.15_octa_a_4	Au54_disp_0.15_octa_a_99	Different Motif
+Au54_disp_0.15_octa_a_4	Au54_disp_0.15_octa_a_84	Structurally Different or Same Motif (Not Sure)
+Au54_disp_0.15_octa_a_4	Au54_disp_0.15_octa_a_152	Different Motif
+Au54_disp_0.15_octa_a_4	Au54_disp_0.15_octa_a_100	Different Motif
+Au54_disp_0.15_octa_a_4	Au54_disp_0.15_octa_a_199	Different Motif
+Au54_disp_0.15_octa_a_4	Au54_disp_0.15_octa_a_253	Different Motif
+Au54_disp_0.15_octa_a_4	Au54_disp_0.15_octa_a_198	Different Motif
+Au54_disp_0.15_octa_a_4	Au54_disp_0.15_octa_a_119	Different Motif
+Au54_disp_0.15_octa_a_4	Au54_disp_0.15_octa_a_147	Different Motif
+Au54_disp_0.15_octa_a_4	Au54_disp_0.15_octa_a_215	Different Motif
+Au54_disp_0.15_octa_a_99	Au54_disp_0.15_octa_a_84	Different Motif
+############################################################
+# Results_of_Rules_total_similarity_for_Au54_disp_0.15_octa_b.txt
+############################################################
+Au54_disp_0.15_octa_b_7	Au54_disp_0.15_octa_b_68	Different Motif
+Au54_disp_0.15_octa_b_7	Au54_disp_0.15_octa_b_53	Structurally Different or Same Motif (Not Sure)
+Au54_disp_0.15_octa_b_7	Au54_disp_0.15_octa_b_379	Different Motif
+Au54_disp_0.15_octa_b_7	Au54_disp_0.15_octa_b_86	Different Motif
+Au54_disp_0.15_octa_b_7	Au54_disp_0.15_octa_b_138	Different Motif
+Au54_disp_0.15_octa_b_7	Au54_disp_0.15_octa_b_361	Different Motif
+Au54_disp_0.15_octa_b_7	Au54_disp_0.15_octa_b_82	Different Motif (Not sure)
+Au54_disp_0.15_octa_b_7	Au54_disp_0.15_octa_b_363	Different Motif
+Au54_disp_0.15_octa_b_7	Au54_disp_0.15_octa_b_224	Different Motif
+Au54_disp_0.15_octa_b_7	Au54_disp_0.15_octa_b_109	Different Motif (Not sure)
+Au54_disp_0.15_octa_b_7	Au54_disp_0.15_octa_b_47	Structurally Different or Same Motif (Not Sure)
+Au54_disp_0.15_octa_b_7	Au54_disp_0.15_octa_b_218	Different Motif
+Au54_disp_0.15_octa_b_7	Au54_disp_0.15_octa_b_554	Different Motif (Not sure)
+Au54_disp_0.15_octa_b_68	Au54_disp_0.15_octa_b_53	Different Motif (Not sure)
+############################################################
+# Results_of_Rules_total_similarity_for_Au54_disp_0.15_octa_c.txt
+############################################################
+
+############################################################
+# Results_of_Rules_total_similarity_for_Au54_disp_0.15_ico_a.txt
+############################################################

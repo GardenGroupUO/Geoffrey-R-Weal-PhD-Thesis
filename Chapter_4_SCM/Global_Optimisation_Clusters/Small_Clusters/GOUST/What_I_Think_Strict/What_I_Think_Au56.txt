@@ -1,0 +1,145 @@
+############################################################
+# Looking across all the different
+############################################################
+Au56_disp_0.15_deca_a_111	Au56_disp_0.15_deca_b_131	Different Motif
+Au56_disp_0.15_deca_a_111	Au56_disp_0.15_deca_c_93	Same
+Au56_disp_0.15_deca_a_111	Au56_disp_0.15_octa_a_16	Different Motif
+Au56_disp_0.15_deca_a_111	Au56_disp_0.15_octa_b_2	Different Motif (R
+Au56_disp_0.15_deca_a_111	Au56_disp_0.15_octa_c_8	Different Motif (R Au56_disp_0.15_deca_a_111	Au56_disp_0.15_octa_a_16)
+Au56_disp_0.15_deca_a_111	Au56_disp_0.15_ico_a_8	Structurally Different or Same Motif
+
+Au56_disp_0.15_deca_b_131	Au56_disp_0.15_deca_c_93	Different Motif
+Au56_disp_0.15_deca_b_131	Au56_disp_0.15_octa_a_16	Structurally Different or Same Motif
+Au56_disp_0.15_deca_b_131	Au56_disp_0.15_octa_b_2	Structurally Different or Same Motif (R)
+Au56_disp_0.15_deca_b_131	Au56_disp_0.15_octa_c_8	Structurally Different or Same Motif (R Au56_disp_0.15_deca_b_131	Au56_disp_0.15_deca_c_93)
+Au56_disp_0.15_deca_b_131	Au56_disp_0.15_ico_a_8	Different Motif
+
+Au56_disp_0.15_deca_c_93	Au56_disp_0.15_octa_a_16	Different Motif
+Au56_disp_0.15_deca_c_93	Au56_disp_0.15_octa_b_2	Different Motif
+Au56_disp_0.15_deca_c_93	Au56_disp_0.15_octa_c_8	Different Motif (R Au56_disp_0.15_deca_c_93	Au56_disp_0.15_octa_a_16)
+Au56_disp_0.15_deca_c_93	Au56_disp_0.15_ico_a_8	Structurally Different or Same Motif
+
+Au56_disp_0.15_octa_a_16	Au56_disp_0.15_octa_b_2	Same (R)
+Au56_disp_0.15_octa_a_16	Au56_disp_0.15_octa_c_8	Same
+Au56_disp_0.15_octa_a_16	Au56_disp_0.15_ico_a_8	Different Motif
+
+Au56_disp_0.15_octa_b_2	Au56_disp_0.15_octa_c_8	Same (R Au56_disp_0.15_octa_a_16	Au56_disp_0.15_octa_b_2)
+Au56_disp_0.15_octa_b_2	Au56_disp_0.15_ico_a_8	Different Motif
+
+Au56_disp_0.15_octa_c_8	Au56_disp_0.15_ico_a_8	Different Motif (R Au56_disp_0.15_octa_a_16 Vs. Au56_disp_0.15_ico_a_8)
+############################################################
+# Results_of_Rules_total_similarity_for_Au56_disp_0.15_deca_a.txt
+############################################################
+Au56_disp_0.15_deca_a_111	Au56_disp_0.15_deca_a_17	Same Motif
+Au56_disp_0.15_deca_a_111	Au56_disp_0.15_deca_a_5	Structurally Different or Same Motif
+Au56_disp_0.15_deca_a_111	Au56_disp_0.15_deca_a_100	Structurally Different or Same Motif
+Au56_disp_0.15_deca_a_111	Au56_disp_0.15_deca_a_62	Structurally Different or Same Motif (One of the clusters is fairly amorphous)
+Au56_disp_0.15_deca_a_111	Au56_disp_0.15_deca_a_143	Structurally Different or Same Motif
+Au56_disp_0.15_deca_a_111	Au56_disp_0.15_deca_a_124	Structurally Different or Same Motif
+Au56_disp_0.15_deca_a_111	Au56_disp_0.15_deca_a_42	Structurally Different or Same Motif (Good example of why we have order parameter and other but to the program)
+Au56_disp_0.15_deca_a_111	Au56_disp_0.15_deca_a_137	Structurally Different or Same Motif
+Au56_disp_0.15_deca_a_111	Au56_disp_0.15_deca_a_13	Structurally Different or Same Motif
+Au56_disp_0.15_deca_a_111	Au56_disp_0.15_deca_a_30	Structurally Different or Same Motif
+Au56_disp_0.15_deca_a_111	Au56_disp_0.15_deca_a_49	Structurally Different or Same Motif
+Au56_disp_0.15_deca_a_111	Au56_disp_0.15_deca_a_175	Structurally Different or Same Motif
+Au56_disp_0.15_deca_a_111	Au56_disp_0.15_deca_a_63	Structurally Different or Same Motif
+Au56_disp_0.15_deca_a_111	Au56_disp_0.15_deca_a_0 Different Motif
+############################################################
+# Results_of_Rules_total_similarity_for_Au56_disp_0.15_deca_b.txt
+############################################################
+Au56_disp_0.15_deca_b_131	Au56_disp_0.15_deca_b_130	Structurally Different
+Au56_disp_0.15_deca_b_131	Au56_disp_0.15_deca_b_44	Different Motif
+Au56_disp_0.15_deca_b_131	Au56_disp_0.15_deca_b_143	Structurally Different or Same Motif
+Au56_disp_0.15_deca_b_131	Au56_disp_0.15_deca_b_98	Different Motif
+Au56_disp_0.15_deca_b_131	Au56_disp_0.15_deca_b_44	Different Motif
+Au56_disp_0.15_deca_b_131	Au56_disp_0.15_deca_b_124	Structurally Different
+Au56_disp_0.15_deca_b_131	Au56_disp_0.15_deca_b_17	Different Motif
+Au56_disp_0.15_deca_b_131	Au56_disp_0.15_deca_b_14	Different Motif
+Au56_disp_0.15_deca_b_131	Au56_disp_0.15_deca_b_121	Different Motif
+Au56_disp_0.15_deca_b_131	Au56_disp_0.15_deca_b_13	Different Motif
+Au56_disp_0.15_deca_b_131	Au56_disp_0.15_deca_b_147	Structurally Different
+Au56_disp_0.15_deca_b_131	Au56_disp_0.15_deca_b_64	Different Motif
+Au56_disp_0.15_deca_b_131	Au56_disp_0.15_deca_b_145	Structurally Different (R)
+Au56_disp_0.15_deca_b_131	Au56_disp_0.15_deca_b_46	Different Motif
+Au56_disp_0.15_deca_b_131	Au56_disp_0.15_deca_b_3	Different Motif
+Au56_disp_0.15_deca_b_131	Au56_disp_0.15_deca_b_0	Different Motif
+############################################################
+# Results_of_Rules_total_similarity_for_Au56_disp_0.15_deca_c.txt
+############################################################
+Au56_disp_0.15_deca_c_93	Au56_disp_0.15_deca_c_249	Different Motif
+Au56_disp_0.15_deca_c_93	Au56_disp_0.15_deca_c_25	Structural Difference or Same Motif
+Au56_disp_0.15_deca_c_93	Au56_disp_0.15_deca_c_29	Structural Difference or Same Motif
+Au56_disp_0.15_deca_c_93	Au56_disp_0.15_deca_c_24	Structural Difference or Same Motif (R)
+Au56_disp_0.15_deca_c_93	Au56_disp_0.15_deca_c_8	Structural Difference or Same Motif
+Au56_disp_0.15_deca_c_93	Au56_disp_0.15_deca_c_98	Structural Difference or Same Motif
+Au56_disp_0.15_deca_c_93	Au56_disp_0.15_deca_c_104	Structural Difference or Same Motif
+Au56_disp_0.15_deca_c_93	Au56_disp_0.15_deca_c_46	Structural Difference or Same Motif
+Au56_disp_0.15_deca_c_93	Au56_disp_0.15_deca_c_152	Structural Difference or Same Motif
+Au56_disp_0.15_deca_c_93	Au56_disp_0.15_deca_c_185	Structural Difference or Same Motif
+Au56_disp_0.15_deca_c_93	Au56_disp_0.15_deca_c_218	Same Motif
+Au56_disp_0.15_deca_c_93	Au56_disp_0.15_deca_c_256	Different Motif (R)
+Au56_disp_0.15_deca_c_93	Au56_disp_0.15_deca_c_0	Different Motif
+Au56_disp_0.15_deca_c_249	Au56_disp_0.15_deca_c_25	Different Motif
+Au56_disp_0.15_deca_c_249	Au56_disp_0.15_deca_c_256	Structural Difference or Same Motif
+Au56_disp_0.15_deca_c_249	Au56_disp_0.15_deca_c_0	Structural Difference or Same Motif (Good example of a failure)
+Au56_disp_0.15_deca_c_256	Au56_disp_0.15_deca_c_0	Structural Difference or Same Motif (R Good example of a failure)
+############################################################
+# Results_of_Rules_total_similarity_for_Au56_disp_0.15_octa_a.txt
+############################################################
+Au56_disp_0.15_octa_a_16	Au56_disp_0.15_octa_a_258  Structural Difference or Same Motif
+Au56_disp_0.15_octa_a_16	Au56_disp_0.15_octa_a_259  Structural Difference or Same Motif
+Au56_disp_0.15_octa_a_16	Au56_disp_0.15_octa_a_253  Different Motif
+Au56_disp_0.15_octa_a_16	Au56_disp_0.15_octa_a_2  Structural Difference or Same Motif
+Au56_disp_0.15_octa_a_16	Au56_disp_0.15_octa_a_8  Structural Difference or Same Motif
+Au56_disp_0.15_octa_a_16	Au56_disp_0.15_octa_a_256  Different Motif (Good example of where I thought it was the same motif, but then the program showed me i was wrong.)
+Au56_disp_0.15_octa_a_16	Au56_disp_0.15_octa_a_177  Different Motif
+Au56_disp_0.15_octa_a_16	Au56_disp_0.15_octa_a_216  Different Motif
+Au56_disp_0.15_octa_a_16	Au56_disp_0.15_octa_a_238  Different Motif
+Au56_disp_0.15_octa_a_16	Au56_disp_0.15_octa_a_240  Different Motif
+Au56_disp_0.15_octa_a_16	Au56_disp_0.15_octa_a_228  Different Motif
+Au56_disp_0.15_octa_a_16	Au56_disp_0.15_octa_a_110  Structural Difference
+Au56_disp_0.15_octa_a_16	Au56_disp_0.15_octa_a_125  Structural Difference or Same Motif
+Au56_disp_0.15_octa_a_16	Au56_disp_0.15_octa_a_108  Structural Difference or Same Motif
+############################################################
+# Results_of_Rules_total_similarity_for_Au56_disp_0.15_octa_b.txt
+############################################################
+Au56_disp_0.15_octa_b_2	Au56_disp_0.15_octa_b_152 Different Motif
+Au56_disp_0.15_octa_b_2	Au56_disp_0.15_octa_b_33	Different Motif
+Au56_disp_0.15_octa_b_2	Au56_disp_0.15_octa_b_195	Different Motif
+Au56_disp_0.15_octa_b_2	Au56_disp_0.15_octa_b_71	Different Motif
+Au56_disp_0.15_octa_b_2	Au56_disp_0.15_octa_b_105	Different Motif
+Au56_disp_0.15_octa_b_2	Au56_disp_0.15_octa_b_118	Different Motif
+Au56_disp_0.15_octa_b_2	Au56_disp_0.15_octa_b_158	Different Motif
+Au56_disp_0.15_octa_b_2	Au56_disp_0.15_octa_b_160	Different Motif
+Au56_disp_0.15_octa_b_2	Au56_disp_0.15_octa_b_67	Different Motif
+Au56_disp_0.15_octa_b_2	Au56_disp_0.15_octa_b_16	Structural Difference
+Au56_disp_0.15_octa_b_2	Au56_disp_0.15_octa_b_112	Different Motif
+############################################################
+# Results_of_Rules_total_similarity_for_Au56_disp_0.15_octa_c.txt
+############################################################
+Au56_disp_0.15_octa_c_8	Au56_disp_0.15_octa_c_165 Structural Difference or Same Motif
+Au56_disp_0.15_octa_c_8	Au56_disp_0.15_octa_c_164	Structural Difference or Same Motif
+Au56_disp_0.15_octa_c_8	Au56_disp_0.15_octa_c_5	Structural Difference or Same Motif
+Au56_disp_0.15_octa_c_8	Au56_disp_0.15_octa_c_163	Structural Difference or Same Motif
+Au56_disp_0.15_octa_c_8	Au56_disp_0.15_octa_c_249	Different Motif
+Au56_disp_0.15_octa_c_8	Au56_disp_0.15_octa_c_75	Structural Difference or Same Motif
+Au56_disp_0.15_octa_c_8	Au56_disp_0.15_octa_c_187	Different Motif
+Au56_disp_0.15_octa_c_8	Au56_disp_0.15_octa_c_155	Different Motif
+Au56_disp_0.15_octa_c_8	Au56_disp_0.15_octa_c_176	Structural Difference or Same Motif
+Au56_disp_0.15_octa_c_8	Au56_disp_0.15_octa_c_116 Structural Difference or Same Motif
+Au56_disp_0.15_octa_c_165	Au56_disp_0.15_octa_c_164 Structural Difference or Same Motif
+############################################################
+# Results_of_Rules_total_similarity_for_Au56_disp_0.15_ico_a.txt
+############################################################
+Au56_disp_0.15_ico_a_8	Au56_disp_0.15_ico_a_73	Structural Difference or Same Motif
+Au56_disp_0.15_ico_a_8	Au56_disp_0.15_ico_a_72	Structural Difference or Same Motif
+Au56_disp_0.15_ico_a_8	Au56_disp_0.15_ico_a_28	Structural Difference or Same Motif
+Au56_disp_0.15_ico_a_8	Au56_disp_0.15_ico_a_3	Structural Difference or Same Motif
+Au56_disp_0.15_ico_a_8	Au56_disp_0.15_ico_a_160	Structural Difference or Same Motif
+Au56_disp_0.15_ico_a_8	Au56_disp_0.15_ico_a_19	Structural Difference or Same Motif
+Au56_disp_0.15_ico_a_8	Au56_disp_0.15_ico_a_177	Structural Difference or Same Motif
+Au56_disp_0.15_ico_a_8	Au56_disp_0.15_ico_a_161	Structural Difference or Same Motif
+Au56_disp_0.15_ico_a_8	Au56_disp_0.15_ico_a_99	Structural Difference or Same Motif
+Au56_disp_0.15_ico_a_8	Au56_disp_0.15_ico_a_188	Structural Difference or Same Motif
+Au56_disp_0.15_ico_a_8	Au56_disp_0.15_ico_a_70	 Structural Difference or Same Motif
+Au56_disp_0.15_ico_a_8	Au56_disp_0.15_ico_a_0	 Structural Difference or Same Motif

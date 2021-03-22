@@ -1,0 +1,68 @@
+############################################################
+# Same Energy, Same CNA
+############################################################
+544	684	Same
+544	731	Same (R, 544 684)
+544	795	Same (R, 544 684)
+544	932	Same (R, 544 684)
+470	793	Same
+470	805	Same (R, 470 793)
+470	820	Same (R, 470 793)
+470	856	Same (R, 470 793)
+1149	1633	Same
+1149	2619	Geometric Similarity (R
+1176	1406	Same (R
+############################################################
+# Same Energy, Different CNA
+############################################################
+470	1149	Geometric Similarity
+470	1176	Same 
+470	1359	Same
+1149	1176	Same (R 470	1359)
+1149	1359	Same (R 470	1359)
+407	862	Same 
+1550	1989	Same (R 407	862)
+1550	2559	Same (R 407	862)
+119	224	Geometric Similarity
+119	405	Structurally Different
+119	2280	Same
+119	2408	Structurally Different (R, 119	405)
+119	2612	Different Motif
+############################################################
+# Different Energy, Different CNA
+############################################################
+544	470	Different Motif
+544	1149	Different Motif (R 544	470)
+544	1176	Different Motif (R 544	470)
+544	1359	Different Motif (R 544	470)
+544	407	Structurally Different
+544	862	Structurally Different (R 544	407)
+544	1550	Structurally Different
+544	1989	Structurally Different (R 544	1550)
+544	2559	Structurally Different (R 544	1550)
+544	119	Different Motif
+# 544	224	Structurally Different (R 544	119)
+544	405	Structurally Different
+544	2280	Different Motif
+544	2408	Structurally Different (R 544	2408)
+544	2612	Different Motif
+470	407	Different Motif
+470	862	Different Motif (R 470	407)
+470	1550	Different Motif (R 470	862)
+470	1989	Different Motif (R 470	862)
+470	2559	Different Motif (R 470	862)
+470	119	Different Motif
+470	224	Different Motif (R 470	224)
+470	405	Different Motif
+470	2280	Different Motif
+470	2408	Different Motif
+470	2612	Different Motif
+407	1550	Structurally Different
+407	1989	Structurally Different (R 407	1550)
+407	2559	Structurally Different (R 407	1550)
+1550	119	Structurally Different
+1550	224	Structurally Different (R
+1550	405	Structurally Different (R
+1550	2280	Structurally Different (R
+1550	2408	Structurally Different (R
+1550	2612	Structurally Different or Different Motif (R

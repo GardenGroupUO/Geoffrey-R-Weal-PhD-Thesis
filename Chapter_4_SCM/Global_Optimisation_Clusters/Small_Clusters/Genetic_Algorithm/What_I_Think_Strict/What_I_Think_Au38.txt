@@ -1,0 +1,297 @@
+##########################################################################
+###################### Same Energy, Same CNA #############################
+##########################################################################
+# Energy = -130.47; Same CNA
+437 653 Same
+437 752 Same (R 437 653)
+437 863 Same (R 437 653)
+437 1067 Same (R 437 653)
+825 925 Same (R 437 653)
+825 1002 Same (R 437 653)
+825 1157 Same (R 437 653)
+825 1258 Same (R 437 653)
+918 1771 Same (R 437 653)
+918 2771 Same (R 437 653)
+918 2862 Same (R 437 653)
+918 3063 Same (R 437 653)
+1077 3271 Same (R 437 653)
+1077 3804 Same (R 437 653)
+#1472 1472 
+# Energy = -130.46; Same CNA
+2211 2958 Same
+2211 3682 Same (R 2211 2958)
+2211 5463 Same (R 2211 2958)
+2211 6109 Same (R 2211 2958)
+# Energy = -130.45; Same CNA
+1871 2892 Same
+1871 2923 Same (R 1871 2892)
+1871 3184 Same (R 1871 2892)
+1871 5299 Same (R 1871 2892)
+# Energy = -130.40; Same CNA
+7089 7402 Same
+# Energy = -130.38; Same CNA
+#7516 7516 
+# Energy = -130.37; Same CNA
+#1943 1943 
+2120 3067 Same
+2120 3638 Same (R 2120 3067)
+2120 3805 Same (R 2120 3067)
+2120 5279 Same (R 2120 3067)
+2120 5594 Same (R 2120 3067)
+3489 6378 Same
+# Energy = -130.36; Same CNA
+1442 7545 Same
+2430 2886 Same
+2430 3252 Same (R 2430 2886)
+2430 4292 Same (R 2430 2886)
+2430 7197 Same (R 2430 2886)
+#3122 3122 
+#3127 3127 
+# Energy = -130.35; Same CNA
+#817 1735 
+#817 6517 
+# Energy = -130.34; Same CNA
+#1600 1600 
+#2546 2546 
+
+##########################################################################
+################### Same Energy, Different CNA ###########################
+##########################################################################
+# Energy = -130.47; Different CNA
+437 825 Same (R 437 653)
+437 918 Same (R 437 653)
+437 1077 Same (R 437 653)
+437 1472 Same (R 437 653)
+825 918 Same (R 437 653)
+825 1077 Same (R 437 653)
+825 1472 Same (R 437 653)
+918 1077 Same (R 437 653)
+918 1472 Same (R 437 653)
+1077 1472 Same (R 437 653)
+# Energy = -130.37; Different CNA
+1943 2120 Same Motif 
+1943 3489 Same Motif
+2120 3489 Structurally Different
+# Energy = -130.36; Different CNA
+# Check these
+1442 2430 Same Motif
+1442 3122 Same Motif (Good example of mixed motifs)
+1442 3127 Geometrically Similar (Hard to tell exactly, but very similar enough to say they are very similar)
+2430 3122 Different Motif (Example of hard to figure out what it is, but deca vs ico)
+2430 3127 Same Motif
+3122 3127 Different Motif (Hard to tell exactly, but very similar enough to say they are very similar)
+# Energy = -130.34; Same CNA
+1600 2546 Same Motif (have similar qualities)
+
+##########################################################################
+################### Different Energy, Different CNA ######################
+##########################################################################
+# Energy = -130.47 Vs. Energy = -130.46
+437 2211 Structurally Different (This is a very good example to use in thesis of two different surfaces, are they geomeytrically similar or different, * I put here Structurally Different, but no way to be sure, and only just).
+437 2958 Structurally Different (R 437 2211)
+437 3682 Structurally Different (R 437 2211)
+437 5463 Structurally Different (R 437 2211)
+437 6109 Structurally Different (R 437 2211)
+# Energy = -130.47 Vs. Energy = -130.45
+437 1871 Structurally Different
+437 2892 Structurally Different (R 437 1871)
+437 2923 Structurally Different (R 437 1871)
+437 3184 Structurally Different (R 437 1871)
+437 5299 Structurally Different (R 437 1871)
+# Energy = -130.47 Vs. Energy = -130.40
+437 7089 Same Motif
+437 7402 Same Motif (R 437 7089)
+# Energy = -130.47 Vs. Energy = -130.38
+437 7516 Same Motif
+# Energy = -130.47 Vs. Energy = -130.37
+437 1943 Structurally Different
+437 2120 Same Motif
+437 3067 Same Motif (R 437 2120)
+437 3638 Same Motif (R 437 2120)
+437 3805 Same Motif (R 437 2120)
+437 5279 Same Motif (R 437 2120)
+437 5594 Same Motif (R 437 2120)
+437 3489 Structurally Different
+437 6378 Structurally Different (R 437 3489)
+# Energy = -130.47 Vs. Energy = -130.36
+437 1442 Same Motif
+437 7545 Same Motif (R 437 1442)
+437 2430 Same Motif
+437 2886 Same Motif (R 437 2430)
+437 3252 Same Motif (R 437 2430)
+437 4292 Same Motif (R 437 2430)
+437 7197 Same Motif (R 437 2430)
+437 3122 Structurally Different (Good example for PhD)
+437 3127 Same Motif
+# Energy = -130.47 Vs.  Energy = -130.35
+#437 817 Different: 817 is close to amorphous
+#437 1735 
+#437 6517 
+# Energy = -130.47 Vs.  Energy = -130.34
+437 1600 Same Motif
+# 437 2546 
+##########################################################################
+# Energy = -130.46 Vs. Energy = -130.45
+2211 1871 Structurally Different (R
+2211 2892 Structurally Different (R 2211 1871)
+2211 2923 Structurally Different (R 2211 1871)
+2211 3184 Structurally Different (R 2211 1871)
+2211 5299 Structurally Different (R 2211 1871)
+# Energy = -130.46 Vs. Energy = -130.40
+2211 7089 Structurally Different
+2211 7402 Structurally Different (R 2211 7089)
+# Energy = -130.46 Vs. Energy = -130.38
+2211 7516 Structurally Different
+# Energy = -130.46 Vs. Energy = -130.37
+2211 1943 Structurally Different
+2211 2120 Structurally Different
+2211 3067 Structurally Different (R 2211 2120)
+2211 3638 Structurally Different (R 2211 2120)
+2211 3805 Structurally Different (R 2211 2120)
+2211 5279 Structurally Different (R 2211 2120)
+2211 5594 Structurally Different (R 2211 2120)
+2211 3489 Structurally Different (R 
+2211 6378 Structurally Different (R 2211 3489)
+# Energy = -130.46 Vs. Energy = -130.36
+2211 1442 Structurally Different (R 
+2211 7545 Structurally Different (R 2211 1442)
+2211 2430 Structurally Different (R 
+2211 2886 Structurally Different (R 2211 2430)
+2211 3252 Structurally Different (R 2211 2430)
+2211 4292 Structurally Different (R 2211 2430)
+2211 7197 Structurally Different (R 2211 2430)
+2211 3122 Structurally Different (R Another good example of what are these two comparisons
+2211 3127 Structurally Different (R 
+# Energy = -130.46 Vs.  Energy = -130.35
+#2211 817 Different: 2211 is decahderal, 817 is amorphous.
+#2211 1735 
+#2211 6517 
+# Energy = -130.46 Vs.  Energy = -130.34
+2211 1600 Structurally Different
+#2211 2546 Different: 2211 is decahderal, 2546 is amorphous.
+##########################################################################
+# Energy = -130.45 Vs. Energy = -130.40
+1871 7089 Same Motif
+1871 7402 Same Motif (R 1871 7089)
+# Energy = -130.45 Vs. Energy = -130.38
+1871 7516 Same Motif
+# Energy = -130.45 Vs. Energy = -130.37
+1871 1943 Same Motif
+1871 2120 Same Motif (R
+1871 3067 Same Motif (R 1871 2120)
+1871 3638 Same Motif (R 1871 2120)
+1871 3805 Same Motif (R 1871 2120)
+1871 5279 Same Motif (R 1871 2120)
+1871 5594 Same Motif (R 1871 2120)
+1871 3489 Same Motif (R
+1871 6378 Same Motif (R 1871 3489)
+# Energy = -130.45 Vs. Energy = -130.36
+1871 1442 Same Motif
+1871 7545 Same Motif (R 1871 7545)
+1871 2430 Same Motif (R 
+1871 2886 Same Motif (R 1871 2430)
+1871 3252 Same Motif (R
+1871 4292 Same Motif (R 1871 3252)
+1871 7197 Same Motif (R 1871 3252)
+1871 3122 Same Motif (R
+1871 3127 Same Motif (R
+# Energy = -130.45 Vs.  Energy = -130.35
+#1871 817 Different: 1871 is decahderal, 817 is amorphous.
+#1871 1735 
+#1871 6517 
+# Energy = -130.45 Vs.  Energy = -130.34
+1871 1600 Same Motif (R
+# 1871 2546 Different: 1871 is decahderal, 2546 is amorphous.
+##########################################################################
+# Energy = -130.40 Vs. Energy = -130.38
+7089 7516 Same Motif
+# Energy = -130.40 Vs. Energy = -130.37
+7089 1943 Same Motif
+7089 2120 Same Motif
+7089 3067 Same Motif (R 7089 2120)
+7089 3638 Same Motif (R 7089 2120)
+7089 3805 Same Motif (R 7089 2120)
+7089 5279 Same Motif (R 7089 2120)
+7089 5594 Same Motif (R 7089 2120)
+7089 3489 Same Motif (Good example of structure that gives different outcome for geometrically similar, but it is not, because of perfect structure. Look at this result of AC-SRA vs TC-SRA)
+7089 6378 Same Motif (R 7089 6378)
+7089 1442 Same Motif
+7089 7545 Same Motif (R 7089 1442)
+7089 2430 Same Motif
+7089 2886 Same Motif (R 7089 2430)
+7089 3252 Same Motif (R 7089 2430)
+7089 4292 Same Motif (R 7089 2430)
+7089 7197 Same Motif (R 7089 2430)
+7089 3122 Different Motif (Good example)
+7089 3127 Same Motif
+# Energy = -130.40 Vs.  Energy = -130.35
+#7089 817 Different: 7089 is deca while 817 is amorphous.
+#7089 1735 
+#7089 6517 
+# Energy = -130.40 Vs.  Energy = -130.34
+7089 1600 Same Motif
+#7089 2546 Different: 7089 is deca while 2546 is amorphous.
+##########################################################################
+# Energy = -130.38 Vs. Energy = -130.37
+7516 1943 Same Motif
+7516 2120 Structurally Different
+7516 3067 Structurally Different (R 7516 2120)
+7516 3638 Structurally Different (R 7516 2120)
+7516 3805 Structurally Different (R 7516 2120)
+7516 5279 Structurally Different (R 7516 2120)
+7516 5594 Structurally Different (R 7516 2120)
+7516 3489 Structurally Different
+7516 6378 Structurally Different (R 7516 3489)
+# Energy = -130.38 Vs. Energy = -130.36
+7516 1442 Same Motif
+7516 7545 Same Motif (R 7516 1442)
+7516 2430 Same Motif (R 
+7516 2886 Same Motif (R 7516 2430)
+7516 3252 Same Motif (R 7516 2430)
+7516 4292 Same Motif (R 7516 2430)
+7516 7197 Same Motif (R 7516 2430)
+7516 3122 Different Motif (Good example)
+7516 3127 Same Motif
+# Energy = -130.38 Vs.  Energy = -130.35
+#7516 817 Different: 7516 is deca while 817 is amorphous.
+#7516 1735 
+#7516 6517 
+# Energy = -130.38 Vs.  Energy = -130.34
+7516 1600 Same Motif
+#7516 2546 Different: 7516 is deca while 2546 is amorphous.
+##########################################################################
+##########################################################################
+##########################################################################
+##########################################################################
+##########################################################################
+##########################################################################
+# Energy = -130.37 Vs. Energy = -130.36
+1943 1442 Not Sure (RRR)
+1943 7545 Not Sure (RRR)
+1943 2430 Same Motif
+1943 2886 Same Motif (R 1943 2430)
+1943 3252 Same Motif (R 1943 2430)
+1943 4292 Same Motif (R 1943 2430)
+1943 7197 Same Motif (R 1943 2430)
+1943 3122 Different Motif
+1943 3127 Not Sure (RRR)
+# Energy = -130.37 Vs.  Energy = -130.35
+#1943 817 Different: 7516 is deca while 817 is amorphous.
+#1943 1735 
+#1943 6517 
+# Energy = -130.37 Vs.  Energy = -130.34
+1943 1600 Same Motif
+#1943 2546 Different: 7516 is deca while 2546 is amorphous.
+##########################################################################
+# Energy = -130.36 Vs.  Energy = -130.35
+#1442 817 Different: 1442 is deca while 817 is amorphous.
+#1442 1735 
+#1442 6517 
+# Energy = -130.36 Vs.  Energy = -130.34
+1442 1600 Same Motif
+#1442 2546 Different: 1442 is deca while 2546 is amorphous.
+##########################################################################
+# Energy = -130.35 Vs.  Energy = -130.34
+#817 1600 Different: 817 is Amorphous while 1600 is deca
+#817 2546 
+# end

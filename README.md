@@ -8,6 +8,15 @@ Videos have not been include in this Github repository but instead are linked to
 
 The files included in this Github repository are:
 
+### Chapter 3: Investigation of the structures and stabilities of Au and Pt clusters
+
+* The low energy Au and Pt clusters as given by DFT.
+
+### Chapter 4: Developing a structural comparison method for global optimisation algorithms
+
+* The various small and large model clusters that were used to initially develop the SCMs.
+* The various low eenrgy small and large clusters that had been obtained with the genetic algorithm and GOUST to validate the similarity results obtained with the T-SCM with low energy clusters that had been obtained from a global optimisation algorithm. 
+
 ### Chapter 5: Improving the efficiency of a global optimisation algorithm
 
 ### Chapter 6: Dynamical behaviour of Au nanoclusters
@@ -19,6 +28,10 @@ The files included in this Github repository are:
 	- Au101 -> 
 
 Some of the energy and CNA profile that have been given have been restricted just to show the energies and proportions of CNA signatures at the point during the simulations when a transition between motifs occurs.
+
+### Chapter 7: Modelling Cu clusters as CO<sub>2</sub> reduction catalysts
+
+* The types of low energy Cu clusters as given by DFT.
 
 ### Appendix D: Appendix for Chapter 5
 
