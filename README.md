@@ -1,8 +1,6 @@
 # Online Supplementary Information from Geoffrey Weal's PhD Thesis
 
-All gifs can be played on this Github repository. 
-
-Videos have not been include in this Github repository but instead are linked to their Youtube url. You can see the video you would like to watch by clicking on the link to it. The videos that have been include online are given in this README file as well.
+This Github repostiory contains files and links to videos on Youtube regarding dGeoffrey Weal's PhD Thesis. See the table of contents below shows the types of data, files, plots and videos that are available on this repostiory. All gifs can be played on this Github repository. Link on the links to video, which will send you to that video on Youtube.
 
 ## Files on this Github Repository and Videos on Youtube
 
