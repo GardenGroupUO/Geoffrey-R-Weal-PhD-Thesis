@@ -31,14 +31,6 @@ The global optimisation of a Lennard-Jones 98 cluster with the genetic algorithm
 
 ### Chapter 6: Dynamical behaviour of Au nanoclusters
 
-* The Energy and CNA profiles of:
-
-	- Au<sub>55</sub>  -> FCC at 175 K, 220 K, 300 K; Dh at 300 K; GI at 300 K
-	- Au<sub>85</sub>  -> TWI at 300 -- 400 K and at 500 K
-	- Au<sub>101</sub> -> 
-
-Some of the energy and CNA profile that have been given have been restricted just to show the energies and proportions of CNA signatures at the point during the simulations when a transition between motifs occurs.
-
 #### Simulation data regarding Au<sub>55</sub> global octahedral (GM FCC) cluster at 300 K
 
 The Energy and CNA profiles of Au<sub>55</sub> global octahedral (GM FCC) cluster at 300 K can be found at [Chapter_6_aKMC/aKMC_Simulations/Au55/FCC/300K/Full_Simulation](https://github.com/GardenGroupUO/Geoffrey-R-Weal-PhD-Thesis/tree/main/Chapter_6_aKMC/aKMC_Simulations/Au55/FCC/300K/Full_Simulation)
@@ -69,6 +61,16 @@ The full aKMC simulation of the Au<sub>55</sub> GM FCC cluster at 175 K:
 
 * [aKMC Simulation of Au55 GM FCC Cluster at 175 K](https://youtu.be/rKc851toZL8)
 * [aKMC Simulation of Au55 GM FCC Cluster at 175 K - Transition from GM FCC to GI](https://youtu.be/z9DResVPWFo)
+
+#### Simulation data regarding Au<sub>85</sub> global octahedral (GM FCC) cluster between 300 K and 400 K
+
+The Energy and CNA profiles of Au<sub>85</sub> global octahedral (GM FCC) cluster at between 300 K and 400 K can be found at [Chapter_6_aKMC/aKMC_Simulations/Au85/TWI](https://github.com/GardenGroupUO/Geoffrey-R-Weal-PhD-Thesis/tree/main/Chapter_6_aKMC/aKMC_Simulations/Au85/TWI)
+
+<!---
+#### Simulation data regarding Au<sub>101</sub> global decahedral (GM Dh) cluster between 300 K and 400 K
+
+The Energy and CNA profiles of Au<sub>101</sub> global decahedral (GM Dh) cluster at between 300 K and 400 K can be found at []()
+--->
 
 ### Chapter 7: Modelling Cu clusters as CO<sub>2</sub> reduction catalysts
 
