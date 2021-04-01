@@ -38,14 +38,14 @@ The Energy and CNA profiles of Au<sub>55</sub> global octahedral (GM FCC) cluste
 GIFs and Youtube videos of the direct transition path for the Au<sub>55</sub> global octahedral (GM FCC) cluster to the Garzón Icosahedral (GI) cluster at 300 K.
 
 * For GIFs, see [Chapter_6_aKMC/aKMC_Simulations/Au55/FCC/300K/Direct_Transition_Mechanism](https://github.com/GardenGroupUO/Geoffrey-R-Weal-PhD-Thesis/tree/main/Chapter_6_aKMC/aKMC_Simulations/Au55/FCC/300K/Direct_Transition_Mechanism)
-* For video of GIF (front view): [Front View of the Direct Transition Mechanism of Au55 at 300 K from the GM FCC to GI Cluster](https://youtu.be/d5o_0AmHeMo)
-* For video of GIF (back view): [Back View of the Direct Transition Mechanism of Au55 at 300 K from the GM FCC to GI Cluster](https://youtu.be/IlZeLYxdTXg)
+* For video of GIF (front view): [Front View of the Direct Transition Mechanism of Au<sub>55</sub> at 300 K from the GM FCC to GI Cluster](https://youtu.be/d5o_0AmHeMo)
+* For video of GIF (back view): [Back View of the Direct Transition Mechanism of Au<sub>55</sub> at 300 K from the GM FCC to GI Cluster](https://youtu.be/IlZeLYxdTXg)
 
 The full aKMC simulation of the Au<sub>55</sub> GM FCC cluster at 300 K:
 
-* [aKMC Simulation of Au55 GM FCC Cluster at 300 K](https://youtu.be/vZr7hHKalhQ)
-* [aKMC Simulation of Au55 GM FCC Cluster at 300 K - Transition from GM FCC Cluster to the GI Cluster](https://youtu.be/BU5j77AOOhw)
-* [aKMC Simulation of Au55 GM FCC Cluster at 300 K - Intermediate transition during GI motif](https://youtu.be/Ab3JiVEVYEo)
+* [aKMC Simulation of Au<sub>55</sub> GM FCC Cluster at 300 K](https://youtu.be/vZr7hHKalhQ)
+* [aKMC Simulation of Au<sub>55</sub> GM FCC Cluster at 300 K - Transition from GM FCC Cluster to the GI Cluster](https://youtu.be/BU5j77AOOhw)
+* [aKMC Simulation of Au<sub>55</sub> GM FCC Cluster at 300 K - Intermediate transition during GI motif](https://youtu.be/Ab3JiVEVYEo)
 
 #### Simulation data regarding Au<sub>55</sub> global octahedral (GM FCC) cluster at 175 K
 
@@ -54,13 +54,13 @@ The Energy and CNA profiles of Au<sub>55</sub> global octahedral (GM FCC) cluste
 GIFs and Youtube videos of the direct transition path for the Au<sub>55</sub> global octahedral (GM FCC) cluster to the Garzón Icosahedral (GI) cluster at 175 K.
 
 * For GIFs, see [Chapter_6_aKMC/aKMC_Simulations/Au55/FCC/175K/Direct_Transition_Mechanism](https://github.com/GardenGroupUO/Geoffrey-R-Weal-PhD-Thesis/tree/main/Chapter_6_aKMC/aKMC_Simulations/Au55/FCC/175K/Direct_Transition_Mechanism)
-* For video of GIF (front view): [Front View of the Direct Transition Mechanism of Au55 at 175 K from the GM FCC to GI Cluster](https://youtu.be/XkSt3g4yVh8)
-* For video of GIF (back view): [Back View of the Direct Transition Mechanism of Au55 at 175 K from the GM FCC to GI Cluster](https://youtu.be/-yx7FwpDYQk)
+* For video of GIF (front view): [Front View of the Direct Transition Mechanism of Au<sub>55</sub> at 175 K from the GM FCC to GI Cluster](https://youtu.be/XkSt3g4yVh8)
+* For video of GIF (back view): [Back View of the Direct Transition Mechanism of Au<sub>55</sub> at 175 K from the GM FCC to GI Cluster](https://youtu.be/-yx7FwpDYQk)
 
 The full aKMC simulation of the Au<sub>55</sub> GM FCC cluster at 175 K:
 
-* [aKMC Simulation of Au55 GM FCC Cluster at 175 K](https://youtu.be/rKc851toZL8)
-* [aKMC Simulation of Au55 GM FCC Cluster at 175 K - Transition from GM FCC to GI](https://youtu.be/z9DResVPWFo)
+* [aKMC Simulation of Au<sub>55</sub> GM FCC Cluster at 175 K](https://youtu.be/rKc851toZL8)
+* [aKMC Simulation of Au<sub>55</sub> GM FCC Cluster at 175 K - Transition from GM FCC to GI](https://youtu.be/z9DResVPWFo)
 
 #### Simulation data regarding Au<sub>85</sub> global octahedral (GM FCC) cluster between 300 K and 400 K
 
