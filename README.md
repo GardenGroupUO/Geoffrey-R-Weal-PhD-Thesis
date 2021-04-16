@@ -62,7 +62,23 @@ The full aKMC simulation of the Au<sub>55</sub> GM FCC cluster at 175 K:
 
 #### Simulation data regarding Au<sub>85</sub> global octahedral (GM FCC) cluster between 300 K and 400 K
 
-The Energy and CNA profiles of Au<sub>85</sub> global octahedral (GM FCC) cluster at between 300 K and 400 K can be found at [Chapter_6_aKMC/aKMC_Simulations/Au85/TWI](https://github.com/GardenGroupUO/Geoffrey-R-Weal-PhD-Thesis/tree/main/Chapter_6_aKMC/aKMC_Simulations/Au85/TWI)
+The Energy and CNA profiles of Au<sub>85</sub> global octahedral (GM FCC) cluster at various temperatures between 300 K and 400 K can be found at [Chapter_6_aKMC/aKMC_Simulations/Au85/TWI](https://github.com/GardenGroupUO/Geoffrey-R-Weal-PhD-Thesis/tree/main/Chapter_6_aKMC/aKMC_Simulations/Au85/TWI)
+
+The full aKMC simulation of the Au<sub>85</sub> GM FCC cluster at various temperatures between 300 K and 400 K:
+
+* [aKMC Simulation of Au<sub>85</sub> GM FCC Cluster at 300 K](https://youtu.be/xTrBKpQwI70)
+* [aKMC Simulation of Au<sub>85</sub> GM FCC Cluster at 310 K](https://youtu.be/xTrBKpQwI70)
+* [aKMC Simulation of Au<sub>85</sub> GM FCC Cluster at 320 K](https://youtu.be/swajPO4bzdc)
+* [aKMC Simulation of Au<sub>85</sub> GM FCC Cluster at 330 K](https://youtu.be/PsD4bFcbbO8)
+* [aKMC Simulation of Au<sub>85</sub> GM FCC Cluster at 340 K](https://youtu.be/zxt37ZZ26j4)
+* [aKMC Simulation of Au<sub>85</sub> GM FCC Cluster at 350 K](https://youtu.be/Y5x2BXu45Tg)
+* [aKMC Simulation of Au<sub>85</sub> GM FCC Cluster at 360 K](https://youtu.be/ZhD-_vy7rvk)
+* [aKMC Simulation of Au<sub>85</sub> GM FCC Cluster at 370 K](https://youtu.be/xR1JBo9ZfZQ)
+* [aKMC Simulation of Au<sub>85</sub> GM FCC Cluster at 380 K](https://youtu.be/BZA2TVtAxZY)
+* [aKMC Simulation of Au<sub>85</sub> GM FCC Cluster at 390 K](https://youtu.be/NNMcXcNNVr8)
+* [aKMC Simulation of Au<sub>85</sub> GM FCC Cluster at 400 K](https://youtu.be/12R2p_WsAL0)
+
+Specific transitions that were observed from the Au<sub>85</sub> GM FCC cluster to the decahedral (Dh) motif at various temperatures between 300 K and 400 K during aKMC simulations:
 
 <!---
 #### Simulation data regarding Au<sub>101</sub> global decahedral (GM Dh) cluster between 300 K and 400 K
