@@ -80,11 +80,21 @@ The full aKMC simulation of the Au<sub>85</sub> GM FCC cluster at various temper
 
 Specific transitions that were observed from the Au<sub>85</sub> GM FCC cluster to the decahedral (Dh) motif at various temperatures between 300 K and 400 K during aKMC simulations:
 
-<!---
 #### Simulation data regarding Au<sub>101</sub> global decahedral (GM Dh) cluster between 300 K and 400 K
 
-The Energy and CNA profiles of Au<sub>101</sub> global decahedral (GM Dh) cluster at between 300 K and 400 K can be found at []()
---->
+The Energy and CNA profiles of Au<sub>101</sub> global decahedral (GM Dh) cluster at between 300 K and 400 K can be found at [Chapter_6_aKMC/aKMC_Simulations/Au101/Dh](https://github.com/GardenGroupUO/Geoffrey-R-Weal-PhD-Thesis/tree/main/Chapter_6_aKMC/aKMC_Simulations/Au101/Dh)
+
+The full aKMC simulation of the Au<sub>101</sub> GM Dh cluster at various temperatures between 300 K and 400 K:
+
+* [aKMC Simulation of Au<sub>101</sub> GM Dh Cluster at 330 K](https://youtu.be/X98isvsFa9w)
+* [aKMC Simulation of Au<sub>101</sub> GM Dh Cluster at 340 K](https://youtu.be/BYs1npjiW5c)
+* [aKMC Simulation of Au<sub>101</sub> GM Dh Cluster at 350 K](https://youtu.be/cvqZtKOVHqU)
+* [aKMC Simulation of Au<sub>101</sub> GM Dh Cluster at 360 K](https://youtu.be/eamA98n437Y)
+* [aKMC Simulation of Au<sub>101</sub> GM Dh Cluster at 370 K](https://youtu.be/5MpAbnqSLaQ)
+* [aKMC Simulation of Au<sub>101</sub> GM Dh Cluster at 380 K](https://youtu.be/wGyfl0F-TqQ)
+* [aKMC Simulation of Au<sub>101</sub> GM Dh Cluster at 390 K](https://youtu.be/fNbS2XYHkak)
+* [aKMC Simulation of Au<sub>101</sub> GM Dh Cluster at 400 K](https://youtu.be/0sYYKTIOSZw)
+
 
 ### Chapter 7: Modelling Cu clusters as CO<sub>2</sub> reduction catalysts
 
